@@ -1,0 +1,18 @@
+# Core Vision & ML
+ultralytics
+opencv-python
+numpy
+torch
+torchvision
+
+# Inference & Optimization
+onnx
+onnxruntime
+
+# Tracking & Analytics
+lap
+scipy
+pyyaml
+
+# Utility
+tqdm
