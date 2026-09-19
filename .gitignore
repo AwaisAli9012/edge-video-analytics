@@ -21,3 +21,15 @@ venv/
 *.mkv
 data/raw/
 outputs/
+
+# Model weights and artifacts
+*.pt
+*.onnx
+*.engine
+outputs/models/
+
+# Model weights and artifacts
+*.pt
+*.onnx
+*.engine
+outputs/models/
