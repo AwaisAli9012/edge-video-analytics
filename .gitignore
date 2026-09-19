@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# System / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Large Files & Model Artifacts
+*.engine
+*.onnx
+*.weights
+*.pt
+*.mp4
+*.avi
+*.mkv
+data/raw/
+outputs/
